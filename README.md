@@ -41,17 +41,11 @@ Confirm the ping from pc1 in Vlan 40 on switch 3 to pc0 Vlan 20 on switch 0: all
 <img src="https://i.imgur.com/7SwyuLt.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="vtp topology"/>
+The process in simulation mode is complete (Take are look):  <br/>
+<img src="https://i.imgur.com/JtTZfiI.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
