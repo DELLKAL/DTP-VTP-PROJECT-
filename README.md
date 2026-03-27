@@ -30,19 +30,19 @@ Launch the utility: <br/>
 <br />
 <br />
 Vtp server configurations on the multilayer switch:  <br/>
-<img src="https://i.imgur.com/wZRU401.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wZRU401.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
 All switch configurations Vtp mode switch 0,1-3 are mode client and switch 2 mode transparent: <br/>
-<img src="https://i.imgur.com/39Kq6Zq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/39Kq6Zq.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm the ping from pc1 in Vlan 40 on switch 3 to pc0 Vlan 20 on switch 0: all received successfully  <br/>
+<img src="https://i.imgur.com/7SwyuLt.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
 Sanitization complete:  <br/>
