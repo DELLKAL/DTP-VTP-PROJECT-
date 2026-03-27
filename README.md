@@ -17,14 +17,9 @@ This project reflects my growing capability in building and managing scalable La
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Cisco packet Tracer</b> 
 
 <h2>Program walk-through:</h2>
 
