@@ -25,7 +25,8 @@ This project reflects my growing capability in building and managing scalable La
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VcYsJOC.png" height="1935" alt="image" src="https://github.com/user-attachments/assets/b750eb16-8f1e-407c-a970-e47d9a6de532" />
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
