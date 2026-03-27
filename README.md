@@ -21,16 +21,16 @@ This project reflects my growing capability in building and managing scalable La
 
 - <b>Cisco packet Tracer</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/VcYsJOC.png" height="1935" alt="image" src="https://github.com/user-attachments/assets/b750eb16-8f1e-407c-a970-e47d9a6de532" />
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+" height="80%" width="80%" alt="vtp topology"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Vtp server configurations on the multilayer switch:  <br/>
+<img src="https://i.imgur.com/wZRU401.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
