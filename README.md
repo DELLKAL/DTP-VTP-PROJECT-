@@ -33,8 +33,8 @@ Vtp server configurations on the multilayer switch:  <br/>
 <img src="https://i.imgur.com/wZRU401.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+All switch configurations Vtp mode switch 0,1-3 are mode client and switch 2 mode transparent: <br/>
+<img src="https://i.imgur.com/39Kq6Zq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
